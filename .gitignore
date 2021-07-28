@@ -1,0 +1,14 @@
+plugins/MLV2_IMAGE_CACHE/
+Cookies
+bdstorage.json
+Cookies-journal
+emote_data.json
+Network Persistent State
+Preferences
+Cache/
+Code Cache/
+data/
+GPUCache/
+Local Storage/
+Session Storage/
+Dictionaries/
